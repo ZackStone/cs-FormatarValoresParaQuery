@@ -1,1 +1,1 @@
-"# cs-FormatarValoresParaQuery" 
+# cs-FormatarValoresParaQuery"
